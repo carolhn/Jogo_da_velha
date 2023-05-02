@@ -16,3 +16,17 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 3. Para inciar um servidor local utilize esse comando:</br>
 `npm start`
 
+## Colocando as mão na massa(no código)
+1. Vamos criar um componente para representar o X e O;
+
+2. Vamos criar uma página que represente o tabuleiro e chame o componente criado anteriormente;
+
+3. Vamos criar a lógica do jogo, atualizando o estado do tabuleiro quando uma peça for clicada e fazer as verificações de ganhadores;
+
+4. Vamos criar alguns testes de unidade para verificar se esta tudo funcionando conforme nossa lógica;
+
+5. Vamos deixar o jogo bonitão com CSS;
+
+6. Vamos fazer o deploy pra compartilhar com nossos amigos;
+
+7. *E ai, vai encarar esse desafio??*
