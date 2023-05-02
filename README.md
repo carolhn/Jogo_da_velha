@@ -6,14 +6,14 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 
 
 ## Configuração inicial do projeto:
-1 - Para criar um projeto em React coloque o camando abaixo no seu terminal:
-- Esse comando irá instalar todas as dependências necessárias.
+1. Para criar um projeto em React coloque o camando abaixo no seu terminal:
+- Esse comando irá instalar todas as dependências necessárias.<br>
 `npx create-react-app jogo-da-velha`
 
-2 - Entre no diretório do projeto criado:
+2. Entre no diretório do projeto criado:<br>
 `cd jogo-da-velha`
 
-3 - Para inciar o servidor do React utilize esse comando:
-- O comando iniciará um servidor local dentro da porta 3000 ('http://localhost:3000')
+3. Para inciar o servidor do React utilize esse comando:
+- O comando iniciará um servidor local dentro da porta 3000 ('http://localhost:3000')<br>
 `npm start`
 
