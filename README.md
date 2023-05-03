@@ -1,7 +1,7 @@
 ## Criando um jogo da velha do Zero 🎮
 <p align="center">
-  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="width: 49%; margin-right: 5%;" />
-  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="width: 49%; margin-left: 5%;" />
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="width: 45%; margin-right: 5%;" />
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="width: 45%; margin-left: 5%;" />
 </p>
 
 ## Contexto do projeto:
@@ -20,7 +20,7 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 3. Para inciar um servidor local utilize esse comando:</br>
 `npm start`
 
-## 2 - Passo a passo de desenvolvimento:
+## 2 - Passo a passo de desenvolvimento.
 1. Vamos criar um componente para representar o X e O;
 
 2. Vamos criar uma página que represente o tabuleiro e chamar o componente criado anteriormente;
