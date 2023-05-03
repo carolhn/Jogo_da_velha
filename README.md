@@ -16,7 +16,7 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 3. Para inciar um servidor local utilize esse comando:</br>
 `npm start`
 
-## 2 - Passo a passo de desenvolvimnento.
+## 2 - Passo a passo de desenvolvimento.
 1. Vamos criar um componente para representar o X e O;
 
 2. Vamos criar uma página que represente o tabuleiro e chamar o componente criado anteriormente;
@@ -27,7 +27,7 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 
 5. Vamos deixar o jogo bonitão com CSS;
 
-6. Vamos fazer deploy pra compartilhar com nossos amigos;
+6. Vamos publicar no Linkedin para inspirar nossos amigos;
 
 7. *E ai, vai encarar esse desafio??*
 
