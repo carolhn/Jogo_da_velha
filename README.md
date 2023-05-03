@@ -1,7 +1,7 @@
 ## Criando um jogo da velha do Zero 🎮
 <p align="center">
-  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="width: 45%; margin-right: 5%;" />
-  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="width: 45%; margin-left: 5%;" />
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="width: 49%; margin-right: 5%;" />
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="width: 49%; margin-left: 5%;" />
 </p>
 
 ## Contexto do projeto:
