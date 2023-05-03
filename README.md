@@ -5,7 +5,7 @@ O jogo da velha foi criado no ano de 545 na Alemanha. O tão popular jogo chegou
 Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando Javascript e React e principalmente se divertir com esse novo desafio. Vou deixar todo o passo a passo dessa brincadeira para quem quiser se desafiar.
 
 
-## Configuração inicial do projeto:
+## 1 - Configuração inicial do projeto:
 1. Para criar um projeto em React coloque o camando abaixo no seu terminal:
 - Esse comando irá instalar todas as dependências necessárias.</br>
 `npx create-react-app jogo-da-velha`
@@ -16,17 +16,20 @@ Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando
 3. Para inciar um servidor local utilize esse comando:</br>
 `npm start`
 
-## Colocando as mão na massa(no código)
+## 2 - Passo a passo de desenvolvimnento.
 1. Vamos criar um componente para representar o X e O;
 
-2. Vamos criar uma página que represente o tabuleiro e chame o componente criado anteriormente;
+2. Vamos criar uma página que represente o tabuleiro e chamar o componente criado anteriormente;
 
 3. Vamos criar a lógica do jogo, atualizando o estado do tabuleiro quando uma peça for clicada e fazer as verificações de ganhadores;
 
-4. Vamos criar alguns testes de unidade para verificar se esta tudo funcionando conforme nossa lógica;
+4. Vamos criar testes de unidade para verificar se esta tudo funcionando conforme nossa lógica;
 
 5. Vamos deixar o jogo bonitão com CSS;
 
-6. Vamos fazer o deploy pra compartilhar com nossos amigos;
+6. Vamos fazer deploy pra compartilhar com nossos amigos;
 
 7. *E ai, vai encarar esse desafio??*
+
+## 3 - Colocando a mão na massa(no Código).
+1. 

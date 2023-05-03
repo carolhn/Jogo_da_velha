@@ -1,0 +1,36 @@
+.squares-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.screen-button {
+  font-size: 5em;
+  font-weight: bold;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  border: 2px solid #000;
+  border-radius: 8px;
+  margin: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.screen-button:hover {
+  background-color: #dedede;
+  cursor: pointer;
+}
+
+.screen-button:active {
+  transform: scale(0.95);
+}

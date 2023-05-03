@@ -1,0 +1,17 @@
+.screenButton {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3em;
+  background-color: #ffd37f;
+  color: #ff774f;
+  border: none;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.screenButton:hover {
+  background-color: #ff774f;
+  color: #ffd37f;
+}
