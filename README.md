@@ -1,8 +1,8 @@
 ## Criando um jogo da velha do Zero 🎮
-<div>
-    <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="max-width: 50%;">
-    <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="max-width: 50%;">
-</div>
+<p align="center">
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image1.png?raw=true" alt="imagem.png" style="width: 45%; margin-right: 5%;" />
+  <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem.png" style="width: 45%; margin-left: 5%;" />
+</p>
 
 ## Contexto do projeto:
 O jogo da velha foi criado no ano de 545 na Alemanha. O tão popular jogo chegou no Brasil em 1500, trazido pelo descobridor Pedro Álvares Cabral.
