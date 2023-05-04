@@ -43,15 +43,15 @@ class Game extends React.Component {
     const winner = Winner(current.squares);
     const isTie = !winner && !current.squares.includes(null);
     const status = winner ? `Ganhador: ${winner}` : isTie ? 'Empate!' : `Próximo Jogador: ${this.state.next ? 'X' : 'O'}`;
-    const showRestartButton = winner || isTie;
+    const restartButton = winner || isTie;
     return (
       <div>
         <h1 className="title">Jogo da Velha</h1>
         <div className="game-info">
           <div>{status}</div>
-          {showRestartButton && (
-        <button onClick={() => this.handleRestart()}>Reiniciar</button>
-      )}
+          {restartButton && (
+            <button onClick={() => this.handleRestart()}>Reiniciar</button>
+          )}
         </div>
       <div className="game">
         <div className="game-board">
