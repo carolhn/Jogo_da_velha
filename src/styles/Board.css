@@ -8,6 +8,7 @@
   display: flex;
   justify-content: center;
   cursor: pointer;
+  background-color: #884210;
 }
 
 .screen-button {
@@ -24,13 +25,4 @@
   margin: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
-}
-
-.screen-button:hover {
-  background-color: #dedede;
-  cursor: pointer;
-}
-
-.screen-button:active {
-  transform: scale(0.95);
 }

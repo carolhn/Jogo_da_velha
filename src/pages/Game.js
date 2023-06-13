@@ -50,7 +50,7 @@ class Game extends React.Component {
         <div className="game-info">
           <div>{status}</div>
           {restartButton && (
-            <button onClick={() => this.handleRestart()}>Reiniciar</button>
+            <button className="btn-restart"onClick={() => this.handleRestart()}>Reiniciar</button>
           )}
         </div>
       <div className="game">
