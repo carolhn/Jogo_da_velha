@@ -10,7 +10,6 @@
   background-image: url("https://cdn.pixabay.com/photo/2013/07/12/13/52/super-mario-brothers-147465_1280.png");
   background-size: cover;
   transition: transform 0.2s;
-  background-color: #884210;
 }
 
 .screenButton:hover {
