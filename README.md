@@ -5,6 +5,8 @@
   <img src="https://github.com/carolhn/Jogo_da_velha/blob/main/src/images/image2.png" alt="imagem2.png" style="width: 49%; margin-left: 5%;" />
 </p>
 
+<h4 align="center"><a href="https://carolhn.github.io/Jogo_da_velha/" target="_blank">Confira Aqui o projeto Online!</a></h4>
+
 ## Contexto do projeto:
 O jogo da velha foi criado no ano de 545 na Alemanha. O tão popular jogo chegou no Brasil em 1500, trazido pelo descobridor Pedro Álvares Cabral.
 Esse projeto tem como objetivo treinar algumas habilidades técnicas, utilizando Javascript e React e principalmente se divertir com esse novo desafio. Vou deixar todo o passo a passo dessa brincadeira para quem quiser se desafiar.
